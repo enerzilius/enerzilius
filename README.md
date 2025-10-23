@@ -1,4 +1,4 @@
-<img width="1908" height="1004" alt="image" src="https://github.com/user-attachments/assets/b5eb2ecd-31bf-499d-a679-43722c71047c" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/a3db3ac7-c95a-41fc-a205-4995f35def36" />
 
 
  - Image from my Acerola's Dirt Jam project
