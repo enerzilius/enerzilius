@@ -7,7 +7,7 @@ Computer Science Student in Universidade Tecnológica Federal do Paraná
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/337abfb0-bfc2-4aa1-87be-3e02052eb486" width="420"/></td>
-    <td><img src="https://github.com/user-attachments/assets/8ec4f1db-d5dc-4f3a-824b-8576e9cb4a48" width="420"/></td>
+    <td><img src="https://github.com/user-attachments/assets/89432526-974a-4537-9395-1a4c8cd5ed01" width="420"/></td>
   </tr>
 </table>
 
